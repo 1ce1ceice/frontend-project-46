@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GPWD/frontend-project-46.git"
+    "url": "git+https://github.com/1ce1ceice/frontend-project-46.git"
   },
-  "author": "Georgy Palatkin",
+  "author": "ice",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GPWD/frontend-project-46/issues"
+    "url": "https://github.com/1ce1ceice/frontend-project-46/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/GPWD/frontend-project-46#readme",
+  "homepage": "https://github.com/1ce1ceice/frontend-project-46.git",
   "dependencies": {
     "commander": "^12.0.0",
     "js-yaml": "^4.1.0",
