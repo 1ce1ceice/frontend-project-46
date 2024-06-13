@@ -2,3 +2,4 @@
 [![Actions Status](https://github.com/1ce1ceice/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/1ce1ceice/frontend-project-46/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/86b58903641e0369e129/maintainability)](https://codeclimate.com/github/1ce1ceice/frontend-project-46/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/86b58903641e0369e129/test_coverage)](https://codeclimate.com/github/1ce1ceice/frontend-project-46/test_coverage)
+[![Node CI](https://github.com/1ce1ceice/frontend-project46/actions/workflows/nodejs.yml/badge.svg)](https://github.com/1ce1ceice/frontend-project46/actions)
